@@ -1,0 +1,16 @@
+#root {
+  text-align : center;
+}
+/*
+.App {
+  text-align : center; 
+}
+*/
+
+@media (prefers-reduced-motion: no-preference) {
+
+.App-link {
+  color: #61dafb;
+}
+
+}
